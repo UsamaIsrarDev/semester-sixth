@@ -20,23 +20,26 @@ https://github.com/UsamaIsrarDev/internet-programming-techniques.git
 - Understand the architecture of modern web systems.
 - Apply internet programming principles to real-world software projects.
 
-### CSSE-504 : Topic of Current Interest
+### CSSE-504 : Topic of Current Interest – I (Cloud Computing)
 
 ```
 https://github.com/UsamaIsrarDev/topic-of-current-interest-l.git
 ```
 
 #### You will learn:
-- Emerging trends and technologies in the field of computer science.
-- Critical analysis of current research and industrial innovations.
-- Exploration of topics like cloud computing, blockchain, IoT, or AI advancements.
-- Academic presentation and technical report writing skills.
+- Cloud architecture and service models (IaaS, PaaS, SaaS).
+- Virtualization technologies and resource provisioning.
+- Deployment models like public, private, hybrid, and community clouds.
+- Major cloud platforms such as AWS, Microsoft Azure, and Google Cloud.
+- Cloud security, scalability, and cost optimization strategies.
+- Use cases in AI, data analytics, and modern web services.
 
 #### Outcomes:
-- Stay updated with rapidly evolving tech trends.
-- Analyze and evaluate cutting-edge technologies.
-- Conduct independent research and present findings effectively.
-- Apply innovative thinking to solve modern computing challenges.
+- Understand the fundamental principles of cloud computing.
+- Deploy and manage applications in a cloud environment.
+- Compare cloud service providers and choose suitable deployment models.
+- Integrate cloud concepts into software engineering and data systems projects.
+- Recognize how cloud computing drives innovation in AI, IoT, and web-based applications.
 
 ### CSSE-506 : Software Project Management
 
